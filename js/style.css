@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+}
+.container{
+    max-width: 1300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.googleImg{
+    width: 50px;
+}
+.person{
+    width:50px;
+}
+.korzinka{
+    width: 50px;
+}
+.search-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.myProfile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.background_color{
+    background-color: #33A0FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
